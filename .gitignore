@@ -1,0 +1,16 @@
+.DS_STORE
+.DS_Store
+
+logs
+*.log
+
+.npm
+npm-debug.log
+node_modules
+npm-debug.log*
+
+pids
+*.pid
+*.seed
+lib-cov
+build/Release

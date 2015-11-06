@@ -1,0 +1,18 @@
+{
+  "name": "es6",
+  "version": "0.0.1",
+  "description": "es6",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "homepage": "https://github.com/seandou/es6",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seandou/es6.git"
+  },
+  "license": "MIT"
+}
